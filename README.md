@@ -1,5 +1,6 @@
 # Company Location
-[!Titulo](./images/titulo.jpg)
+![Titulo](./images/titulo.jpg)
+
 Partiendo de la hipotesis incial de la necesidad de elegir la ubicacion de las nuevas oficinas de nuestra nueva empresa ficticia con esta estructura de empleados: 
 
 * 20 Diseñadores
