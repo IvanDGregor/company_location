@@ -1,0 +1,10 @@
+,Name,Latitude,Longitude,location
+0,London Heliport,51.4697227478,-0.1794440001,"{'type': 'Point', 'coordinates': [-0.179444, 51.469723]}"
+1,London City Airport,51.505299,0.055278,"{'type': 'Point', 'coordinates': [0.055278, 51.505299]}"
+2,One Police Plaza Heliport,40.712600708,-73.9996032715,"{'type': 'Point', 'coordinates': [-73.999603, 40.712601]}"
+3,Downtown-Manhattan/Wall St Heliport,40.70119858,-74.00900269,"{'type': 'Point', 'coordinates': [-74.009003, 40.701199]}"
+4,West 30th St. Heliport,40.754501,-74.007103,"{'type': 'Point', 'coordinates': [-74.007103, 40.754501]}"
+5,La Guardia Airport,40.77719879,-73.87259674,"{'type': 'Point', 'coordinates': [-73.872597, 40.777199]}"
+6,Newark Liberty International Airport,40.6925010681,-74.1687011719,"{'type': 'Point', 'coordinates': [-74.168701, 40.692501]}"
+7,Chofu Airport,35.6716995239,139.5279998779,"{'type': 'Point', 'coordinates': [139.528, 35.6717]}"
+8,Ronald Reagan Washington National Airport,38.8521,-77.037697,"{'type': 'Point', 'coordinates': [-77.037697, 38.8521]}"
