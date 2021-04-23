@@ -24,8 +24,10 @@ Y necesitamos cumplir al menos 3 de las siguientes necesidades de los empleados:
 * Nadie en la compañia le gusta tener cerca a empresas que tengan mas de 10 años en un radio de 2KM.
 * El CEO es vegano.
 
-Para el analisis hemos utlizado dos datasets uno del a web de Kaggle para los Starbucks del todo el mundo:https://www.kaggle.com/starbucks/store-locations, y un otro con los aeropuertos del mundo de Open Data: https://ourairports.com/data/
+Para el analisis hemos utlizado dos datasets uno del a web de Kaggle para los Starbucks del todo el mundo: https://www.kaggle.com/starbucks/store-locations, y un otro con los aeropuertos del mundo de Open Data: https://ourairports.com/data/
 
+# Mapa
+Para ver el mapa generado abrir el fichero HTML 'company_map.html' en el navegador.
 # Recursos
 
 * [MongoDB](https://docs.mongodb.com/)
@@ -34,3 +36,4 @@ Para el analisis hemos utlizado dos datasets uno del a web de Kaggle para los St
 * [DotENV](https://pypi.org/project/python-dotenv/)
 * [GeoPandas](https://geopandas.org/)
 * [Kaggle](https://www.kaggle.com/)
+* [Kepler](https://kepler.gl/)
